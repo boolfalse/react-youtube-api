@@ -5,8 +5,10 @@ A simple React component which shows AutoSuggest keywords based on live data fet
 
 ## Environment variables
 
-Create **.env** file in the root directory and set there value for **REACT_APP_YOUTUBE_DATA_API_V3_KEY** secret variable. You can get that from [YouTube Data API official page](https://developers.google.com/youtube/v3/getting-started).
-Also set value for **REACT_APP_PUBLIC_URL** secret variable (e.g. "https://boolfalse.github.io/youtube-search").
+Create **.env** file in the root directory and set there value for:
+**REACT_APP_YOUTUBE_DATA_API_V3_KEY** secret variable. You can get that from [YouTube Data API official page](https://developers.google.com/youtube/v3/getting-started).
+<br>
+Also set value for **REACT_APP_PUBLIC_URL** secret variable (e.g. "https://boolfalse.github.io/react-youtube-api" for GH-Pages, "http://localhost:3000" or something like that).
 
 ## Available Scripts
 
